@@ -206,7 +206,7 @@ function SignalCard({
         {/* Action Button */}
         <div className="mt-8 pt-4 border-t border-border/20 relative z-10 opacity-0 group-hover:opacity-100 transition-all duration-300 translate-y-2 group-hover:translate-y-0 text-left">
           <a
-            href={`https://wa.me/919503939294?text=${encodeURIComponent('Hi The Daddy Cinematics! I am interested in your ' + signal.title + ' services.')}`}
+            href={`https://wa.me/919594397299?text=${encodeURIComponent('Hi The Daddy Cinematics! I am interested in your ' + signal.title + ' services.')}`}
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 font-mono text-[10px] uppercase tracking-widest text-emerald-400 hover:text-emerald-300 transition-colors"

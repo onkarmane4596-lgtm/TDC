@@ -100,7 +100,7 @@ export function HeroSection() {
 
               <div className="mt-8 flex flex-col sm:flex-row items-start sm:items-center gap-6 sm:gap-10">
                 <a
-                  href="https://wa.me/919503939294?text=Hi%20The%20Daddy%20Cinematics!%20I%20came%20from%20your%20website%20and%20would%20like%20to%20check%20availability%20and%20book%20a%20shoot."
+                  href="https://wa.me/919594397299?text=Hi%20The%20Daddy%20Cinematics!%20I%20came%20from%20your%20website%20and%20would%20like%20to%20check%20availability%20and%20book%20a%20shoot."
                   target="_blank"
                   rel="noreferrer"
                   className="group relative inline-flex items-center gap-4 bg-accent/10 border border-accent/40 px-6 py-3 font-mono text-[10px] uppercase tracking-widest text-foreground hover:bg-accent hover:text-accent-foreground hover:border-accent shadow-[0_0_20px_rgba(var(--accent-rgb),0.2)] hover:shadow-[0_0_30px_rgba(var(--accent-rgb),0.5)] transition-all duration-400 ease-out"
@@ -134,7 +134,7 @@ export function HeroSection() {
           Follow on Instagram
         </a>
         <a
-          href="tel:+919503939294"
+          href="tel:+919594397299"
           className="group flex items-center gap-2 border border-emerald-500/30 px-4 py-2 font-mono text-[10px] uppercase tracking-widest text-emerald-400 font-bold bg-emerald-500/10 backdrop-blur-sm relative overflow-hidden hover:bg-emerald-500/20 transition-colors"
         >
           <div className="absolute top-0 left-0 w-1 h-full bg-emerald-500 animate-[pulse_2s_infinite]" />
